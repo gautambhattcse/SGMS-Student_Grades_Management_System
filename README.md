@@ -143,5 +143,3 @@ This project is licensed under the MIT License - feel free to fork and modify it
 ---
 
 > “Empowering institutions to manage students smarter, faster, and better!”
-
-```
